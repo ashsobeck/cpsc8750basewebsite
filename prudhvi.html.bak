@@ -8,12 +8,6 @@
     <link rel="stylesheet" href="joey.css">
 </head>
 <body>
-	<div style="align-content: left;">
-        <a href="./index.html" class="link">home</a>
-        <a href="./ashton.html" class="link">Ashton</a>
-        <a href="./joey.html" class="link">Joey</a>
-        <a href="./Devin.html" class="link">Devin</a>
-     </div>
     <h1>About me</h1>
     <p>I am a Grad Student from Computer Science Department.</p>
     <p>Also, that's me right there </p>
@@ -28,5 +22,11 @@
         </ul>
       </div>
 
+      <div style="align-content: left;">
+        <a href="./index.html" class="link">home</a>
+        <a href="./ashton.html" class="link">Ashton</a>
+        <a href="./joey.html" class="link">Joey</a>
+        <a href="./Devin.html" class="link">Devin</a>
+        </div>
 </body>
 </html>

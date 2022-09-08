@@ -21,6 +21,7 @@
   <div>
     <h1>About Ashton</h1>
     <img src="./imgs/sobeckfilm.jpg" alt="" height="293.95" width="240.75">
+    <button>Click Me, I Do Nothing</button>
   </div>
   <br>
   Hi! I'm Ashton Sobeck, a second semester Master's student. </br>
